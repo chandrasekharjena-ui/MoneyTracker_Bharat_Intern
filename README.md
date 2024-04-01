@@ -83,7 +83,7 @@ click on transaction to add the inputted transaction data to the database
 
 ![MONEY TRACKER - Word 02-04-2024 00_49_18](https://github.com/chandrasekharjena-ui/MoneyTracker_bharat_intern/assets/72114961/fc871e11-0f72-4724-be70-100aca3c19cd)
 
-### Conclusion
+### How it works
 
 after starting the server in the port number 3000 .in the browser 
 URL ->(https://localhost:3000) our frontend page will be displayed. Then the inserted transaction will save in our mongoDB database(mangodb://localhost:27017/transactions) and it will update the transaction after all you edit your transaction
